@@ -1,0 +1,7 @@
+{
+  "name": "baseline",
+  "use_aug": true,
+  "use_gru": true,
+  "use_shared": true,
+  "model_type": "hierarchical"
+}

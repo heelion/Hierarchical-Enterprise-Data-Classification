@@ -1,0 +1,20 @@
+{
+  "main_metrics": {
+    "accuracy": 0.9059674502712477,
+    "precision_macro": 0.8434334859762515,
+    "recall_macro": 0.8755239899531098,
+    "f1_macro": 0.8475814668582137,
+    "precision_micro": 0.9059674502712477,
+    "recall_micro": 0.9059674502712477,
+    "f1_micro": 0.9059674502712477
+  },
+  "sub_metrics": {
+    "accuracy": 0.8526220614828209,
+    "precision_macro": 0.6700616544349487,
+    "recall_macro": 0.7050481533204449,
+    "f1_macro": 0.6772356191882557,
+    "precision_micro": 0.8526220614828209,
+    "recall_micro": 0.8526220614828209,
+    "f1_micro": 0.8526220614828209
+  }
+}
